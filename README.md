@@ -19,3 +19,7 @@ The script run_analysis.R does the following in order to clean up the data and p
 6. The average of each measurement for each activity and each subject is merged
    to form a second data set, which is then saved (tidyData2.txt).
 
+
+### Variables & Output Description
+
+See CodeBook.md for list of variables and a description of the output files.
