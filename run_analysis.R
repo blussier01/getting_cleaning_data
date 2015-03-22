@@ -1,7 +1,7 @@
 
 ## Read in data sets
-testData <- read.table("test/X_test.txt")
-trainData <- read.table("train/X_train.txt")
+testData <- read.table("X_test.txt")
+trainData <- read.table("X_train.txt")
 
 ## Combine data sets
 X <- rbind(testData, trainData)
